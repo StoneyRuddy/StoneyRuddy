@@ -1,7 +1,9 @@
 <?php
 
-echo "Hello World!";
+echo "Hello World!<br>";
 echo "<br>";
-echo "Montira Ngernbutkhot";
-echo "Montira Ngernbutkhot555";
-echo "Montira.aung@gmail Modified1";
+echo "Montira Ngernbutkhot<br>";
+echo "Montira Ngernbutkhot555<br>";
+echo "Montira.aung@gmail Modified1<br>";
+echo "Montira.aung@gmail Modified2<br>";
+echo date("yyyy-MM-dd");
